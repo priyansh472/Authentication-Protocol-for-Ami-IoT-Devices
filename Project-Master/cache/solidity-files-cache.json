@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/priyanshbhandari/Downloads/Project-master/contracts/IoT.sol": {
+      "lastModificationDate": 1707564247144,
+      "contentHash": "9ffd752b957cd072f341ea393da46e23",
+      "sourceName": "contracts/IoT.sol",
+      "solcConfig": {
+        "version": "0.8.8",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.1"
+      ],
+      "artifacts": [
+        "IoT"
+      ]
+    },
+    "/Users/priyanshbhandari/Downloads/Project-master/contracts/Sensor.sol": {
+      "lastModificationDate": 1707564247144,
+      "contentHash": "11a123c8e127cd9e4683b5068892130a",
+      "sourceName": "contracts/Sensor.sol",
+      "solcConfig": {
+        "version": "0.8.8",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.1"
+      ],
+      "artifacts": [
+        "Sensor"
+      ]
+    }
+  }
+}
